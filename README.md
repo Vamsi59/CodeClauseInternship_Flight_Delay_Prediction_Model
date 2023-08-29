@@ -14,6 +14,7 @@ The objective of the predictive model is to build a model to predict whether a f
 5. Sklearn
 6. Random Forest Regressor from Sklearn
 7. Gradient Boosting Regressor from Sklearn
+8. SVR from sklearn
 
 
 **Dataset Website:**
