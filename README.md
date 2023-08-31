@@ -19,7 +19,14 @@ The objective of the predictive model is to build a model to predict whether a f
 
 **Dataset Website:**
 https://www.kaggle.com/usdot/flight-delays
-Output:
+**Output:**
+If Algorithm is NONE:
+
 ![image](https://github.com/Vamsi59/CodeClauseInternship_Flight_Delay_Prediction_Model/assets/94848154/37a34868-5c38-4755-bd2f-cc74e78fb9fd)
+If Algortithm is Random Forest:
+
+![image](https://github.com/Vamsi59/CodeClauseInternship_Flight_Delay_Prediction_Model/assets/94848154/90bb0947-c62e-4018-8e23-1acd46867d29)
+
 ![image](https://github.com/Vamsi59/CodeClauseInternship_Flight_Delay_Prediction_Model/assets/94848154/6ca81dc4-7c4a-4224-9652-b41dca8c2a0b)
+
 ![image](https://github.com/Vamsi59/CodeClauseInternship_Flight_Delay_Prediction_Model/assets/94848154/eff3fea5-4455-47a9-8f94-4c084c2476c8)
